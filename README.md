@@ -9,4 +9,5 @@
 - 본 프로젝트는 모노레포로 구성되어 있습니다.
 - Backend + Frontend 레포지터리로 구성되어 있습니다.
 - 각 레포지터리 아래 상세한 README가 존재합니다.
-- 프로젝트는 [노션](https://atralupus.notion.site/90ef4532315c434d9305405046117981)을 통해 티켓을 관리하고 있습니다.
+- ~프로젝트는 [노션](https://atralupus.notion.site/90ef4532315c434d9305405046117981)을 통해 티켓을 관리하고 있습니다.~
+  - 현재는 기존 티켓들의 이관 없이, 추가되는 티켓들부터는 [Github project](https://github.com/orgs/not-blond-beard/projects/4/views/3)를 사용해 관리하고 있습니다.
