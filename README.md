@@ -1,13 +1,21 @@
 # Savor22b
-## Intro
-- 5:5 턴제 전투 게임 레포지터리입니다.
-- 슈퍼 푸드를 만들기 위해 랜덤한 확률의 종자를 수확하고,
-- 음식을 조합하고, 발전시켜 최고의 슈퍼 푸드를 키워가는 것이 목표!
-- 슈퍼 푸드를 열심히 키워 던전을 돌고, 유저들과의 전투에서 승리하는 것이 목표입니다. 
 
-## Description
-- 본 프로젝트는 모노레포로 구성되어 있습니다.
-- Backend + Frontend 레포지터리로 구성되어 있습니다.
-- 각 레포지터리 아래 상세한 README가 존재합니다.
-- ~프로젝트는 [노션](https://atralupus.notion.site/90ef4532315c434d9305405046117981)을 통해 티켓을 관리하고 있습니다.~
-  - 현재는 기존 티켓들의 이관 없이, 추가되는 티켓들부터는 [Github project](https://github.com/orgs/not-blond-beard/projects/4/views/3)를 사용해 관리하고 있습니다.
+## Game Overview
+Embark on an epic journey through a vast world, creating delicious meals using ingredients grown on your very own farm. Depending on the region you live in, different crops and ingredients will grow. For example, you can plant a pork seed and harvest fresh pork!
+
+By using Life Stones, you can bring your carefully crafted dishes to life. Team up with your superfood companions to explore and conquer various dungeons!
+
+To learn more about our game, check out the [design document](https://github.com/not-blond-beard/Savor22b/wiki/%EA%B8%B0%ED%9A%8D).
+
+### Prototype
+We're still in the early stages, constantly iterating and refining the prototype. Once the design is more stable, we plan to develop an MVP. Stay tuned!
+
+## Blockchain
+Savor22b is a game built with decentralization in mind. All game data is recorded on the blockchain using [libplanet](https://github.com/planetarium/libplanet), ensuring that anyone can contribute to the development or fork the game. All information within the game is transparently stored on-chain, making it impossible to tamper with.
+
+## Contributions
+Although we're still in the prototype phase and haven’t even settled on a final name, all contributions are welcome! Our project will be fully open source.
+
+The repository is structured as a monorepo, with a backend that stores game data on the blockchain and provides it via GQL, and a client that consumes the data and runs the game.
+
+Each project includes a README.md and CONTRIBUTING.md for more details, so be sure to check them out!
