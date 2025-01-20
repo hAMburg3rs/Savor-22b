@@ -5,8 +5,6 @@ Embark on an epic journey through a vast world, creating delicious meals using i
 
 By using Life Stones, you can bring your carefully crafted dishes to life. Team up with your superfood companions to explore and conquer various dungeons!
 
-To learn more about our game, check out the [design document](https://github.com/not-blond-beard/Savor22b/wiki/%EA%B8%B0%ED%9A%8D).
-
 ### Prototype
 We're still in the early stages, constantly iterating and refining the prototype. Once the design is more stable, we plan to develop an MVP. Stay tuned!
 
