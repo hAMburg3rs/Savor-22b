@@ -32,7 +32,7 @@ func _on_button_down():
 	else:
 		button_down.emit(get_index()+5)
 
-		button_down_harvest.emit()
+	button_down_harvest.emit()
 
 func im_right():
 	is_left = false
