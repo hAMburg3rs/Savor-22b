@@ -3,13 +3,13 @@
 current_path=$(pwd)
 root_path="$current_path"
 
-if [[ "$current_path" == "/home/runner/work/Savor-22b/Savor-22b"* ]]; then
-  root_path="/home/runner/work/Savor-22b/Savor-22b"
+if [[ "$current_path" == "/home/runner/work/Savor22b/Savor22b"* ]]; then
+  root_path="/home/runner/work/Savor22b/Savor22b"
 else
-  while [[ "$root_path" == *"/Savor-22b"* ]]; do
-    root_path=${root_path%"/Savor-22b"*}
+  while [[ "$root_path" == *"/Savor22b"* ]]; do
+    root_path=${root_path%"/Savor22b"*}
   done
-  root_path="$root_path/Savor-22b"
+  root_path="$root_path/Savor22b"
 fi
 
 project_path="$root_path/backend/app"
