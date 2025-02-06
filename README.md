@@ -1,5 +1,10 @@
 # SAVOR22B
 
+# Project Termination
+The scope of the game grew too large, and developing it with blockchain as the backend turned out to be slow and complex.  
+Blockchain also imposed design constraints, making the gameplay feel too static. Without confidence that the game would be engaging or attract players, continuing didn’t seem viable.  
+Instead, I want to focus on building a simpler game first and gaining experience in growing a player base.
+
 ## Introduction
 SAVOR22B is a game (prototype) where you explore the world, create food using randomly grown ingredients from your own farm, and make the best superfoods.
 
